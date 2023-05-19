@@ -1,0 +1,6 @@
+# ninja log v5
+0	2951	7058876495994694	CMakeFiles/api.dir/api.cpp.o	b6cd8f1df537978a
+2953	3049	7058876496992118	C:/Users/acer/AndroidStudioProjects/code_converter/build/app/intermediates/cxx/RelWithDebInfo/6w5w6h24/obj/x86/libapi.so	5da96a85fff83458
+3	135	7058915874805050	build.ninja	c41c374e18a5b337
+2	2785	7058915903101683	CMakeFiles/api.dir/api.cpp.o	b6cd8f1df537978a
+2785	2897	7058915904219585	C:/Users/acer/AndroidStudioProjects/code_converter/build/app/intermediates/cxx/RelWithDebInfo/6w5w6h24/obj/x86/libapi.so	5da96a85fff83458

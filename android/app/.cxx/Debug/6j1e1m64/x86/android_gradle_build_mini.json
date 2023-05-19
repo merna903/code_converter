@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\libs\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\acer\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\android\\app\\.cxx\\Debug\\6j1e1m64\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\acer\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\android\\app\\.cxx\\Debug\\6j1e1m64\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "api::@6890427a1f51a3e7e1df": {
+      "artifactName": "api",
+      "abi": "x86",
+      "output": "C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\build\\app\\intermediates\\cxx\\Debug\\6j1e1m64\\obj\\x86\\libapi.so",
+      "runtimeFiles": []
+    }
+  }
+}

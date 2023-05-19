@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/acer/AndroidStudioProjects/code_converter/android/app/.cxx/RelWithDebInfo/6w5w6h24/armeabi-v7a",
+  "command": "C:\\Users\\acer\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --sysroot=C:/Users/acer/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dapi_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\api.dir\\api.cpp.o -c C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\libs\\api.cpp",
+  "file": "C:\\Users\\acer\\AndroidStudioProjects\\code_converter\\libs\\api.cpp"
+}
+]
